@@ -2,7 +2,7 @@ $("#contactForm").validator().on("submit", function (event) {
 	if (event.isDefaultPrevented()) {
 		// handle the invalid form...
 		formError();
-		submitMSG(false, "Thank You for your Booking. We will get back to you shortly!");
+		submitMSG(false, "Please Fill in all the details. Could not send mail!");
 	} else {
 		// everything looks good!
         event.preventDefault();
