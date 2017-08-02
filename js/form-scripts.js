@@ -2,7 +2,7 @@ $("#contactForm").validator().on("submit", function (event) {
 	if (event.isDefaultPrevented()) {
 		// handle the invalid form...
 		formError();
-		submitMSG(false, "Form Working is disabled here. It will work on your PHP enabled server!");
+		submitMSG(false, "Thank You for your Booking. We will get back to you shortly!");
 	} else {
 		// everything looks good!
         event.preventDefault();
