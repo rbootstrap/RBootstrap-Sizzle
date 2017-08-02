@@ -2,6 +2,10 @@
 
 [Sizzle](http://rbootstrap.com/sizzle/) is a One Page HTML 5 Bootstrap Restaurant Template for [Bootstrap](http://getbootstrap.com/) created by [RBootstrap](http://rbootstrap.com/).
 
+## View Demo
+
+[Sizzle One Page HTML 5 Bootstrap Restaurant Template](https://rbootstrap.github.io/sizzle/)
+
 ## Getting Started
 
 To begin using this template, choose one of the following options to get started:
