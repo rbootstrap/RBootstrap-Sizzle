@@ -189,7 +189,7 @@ jQuery(document).ready(function($){
 			lat: 34.4143704,
 			lng: -119.6967133,
 			infoWindow: {
-				content: '<p class="map-info text-center"><strong>Sizzle Tacquiera</strong> <br/>310 Chapala St, Santa Barbara, CA 93101<br/> +1 805-966-9180 </p>'
+				content: '<p class="map-info text-center"><strong>TITLE HERE</strong> <br/>YOUR_ADDRESS_HERE<br/> PHONE_HERE </p>'
 			}
 		});
 	}
