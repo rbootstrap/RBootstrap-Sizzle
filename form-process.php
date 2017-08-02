@@ -58,7 +58,7 @@ if (empty($_POST["message"])) {
     $message = $_POST["message"];
 }
 
-
+//Set the Receiver Email ID and the Subject Here
 $EmailTo = "receiver@gmail.com";
 $Subject = "Book A Table";
 
@@ -92,6 +92,7 @@ $Body .= "Message: ";
 $Body .= $message;
 $Body .= "\n";
 
+//Set the From Email Address
 // send email
 $success = mail($EmailTo, $Subject, $Body, "From:contact@yourdomain.com");
 
