@@ -14,7 +14,7 @@ To begin using this template, choose one of the following options to get started
 * Fork the repo
 
 ## Features
-* Uses the latest Stable version of Bootstrap
+* Uses Stable version 3.3.7 of Bootstrap
 * Super Responsive
 * HTML Validated
 * Tested Across Firefox, Chrome, Safari, IE9, IE10, IE11, Edge
